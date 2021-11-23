@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.renkegkd.dbplugins.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.renkegkd.dbplugins.MyBundle
 
 class MyApplicationService {
 
